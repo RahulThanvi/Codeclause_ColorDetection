@@ -5,4 +5,4 @@ Features:
 (2)Displays the RGB values of the detected color 
 (3)Can process images in various formats (JPG, PNG, etc.)
 
-To use the project efficiently,simply run the CoolorDetection.ipynb file with an image as an input andd it will give the RGB values of the highlighted point with color name.
+To use the project efficiently,simply run the ColorDetection.ipynb file with an image as an input andd it will give the RGB values of the highlighted point with color name.
